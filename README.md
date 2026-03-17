@@ -1,6 +1,6 @@
 ## Personal Library (Django Project)
 
-A full-stack web application built with Django that allows users to manage a personal book collection.
+A full-stack web application built with Django, that allows users to manage a personal book collection.
 
 ## Features
 - Add books with title, author, and genre
@@ -15,7 +15,7 @@ A full-stack web application built with Django that allows users to manage a per
 - Bootstrap 5
 
 ## Screenshots
-(Add screenshots here)
+<img width="4392" height="2338" alt="library project screenshot for github" src="https://github.com/user-attachments/assets/8c6066ce-4df6-4d1f-b221-207d494fa875" />
 
 ## How to Run Locally
 1. Clone the repo
@@ -26,8 +26,3 @@ A full-stack web application built with Django that allows users to manage a per
    python manage.py migrate
 5. Start server:
    python manage.py runserver
-
-## Future Improvements
-- Edit/delete books
-- User authentication
-- Filtering & search
